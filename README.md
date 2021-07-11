@@ -4,5 +4,4 @@ A project uses typescript to realize axios
 
 
 
-
-typescript课件地址： https://liuyunhe.github.io/ts-axios-doc/
+typescript文档预览: https://liuyunhe.github.io/ts-axios-doc/
